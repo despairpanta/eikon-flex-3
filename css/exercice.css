@@ -24,6 +24,10 @@
   order: -1;
 }
 
+.exercice-order-2 .element {
+  width: 100%;
+}
+
 /* 4. exercice-order-3 */
 .exercice-order-3 .container {
   flex-direction: row-reverse;
