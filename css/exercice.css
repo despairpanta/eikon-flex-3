@@ -104,4 +104,6 @@ align-items: center;
   order: 1;
 }
 /* 8. exercice-margin-auto */
-
+.exercice-margin-auto .element-red{
+  margin: auto;
+}
